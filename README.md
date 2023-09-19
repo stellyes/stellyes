@@ -1,13 +1,17 @@
-                          z ᶻ
-　　　　　🌸＞　　フ       Z
-　　　　　| 　_　 _ l
-　 　　　／` ミ＿xノ
-　　 　 /　　　 　 |            _     ____  _      __                                
-　　　 /　 ヽ　　 ﾉ             | |_| | |_  \ \_/ |_/ 
-　 　 │　　|　|　|             |_| | |_|__  |_|  (_)
-　／￣|　　 |　|　|
-　| (￣ヽ＿_ヽ_)__)
-　＼二つ
+
+                                                 ___   
+                                              .'/   \  
+   .              __.....__                  / /     \ 
+ .'|          .-''         '. .-.          .-| |     | 
+<  |         /     .-''"'-.  `.\ \        / /| |     | 
+ | |        /     /________\   \\ \      / / |/`.   .' 
+ | | .'''-. |                  | \ \    / /   `.|   |  
+ | |/.'''. \\    .-------------'  \ \  / /     ||___|  
+ |  /    | | \    '-.____...---.   \ `  /      |/___/  
+ | |     | |  `.             .'     \  /       .'.--.  
+ | |     | |    `''-...... -'       / /       | |    | 
+ | '.    | '.                   |`-' /        \_\    / 
+ '---'   '---'                   '..'          `''--'  
 
   My name is Ryan, I'm 24, currently living in California. I've always loved tinkering with computers and was pretty glued to my parents' old desktop rig back in 2007 when the internet was pretty new to me. I have a diverse background that covers everything from art to agriculture. 
 
