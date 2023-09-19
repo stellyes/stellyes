@@ -1,9 +1,14 @@
-![badmath](https://img.shields.io/badge/Amazon_AWS-familiar-232F3E?logo=amazonaws)
-![badmath](https://img.shields.io/badge/AWS_API_Gateway-proficient-FF4F8B?logo=amazonapigateway)
-![badmath](https://img.shields.io/badge/Amazon_IAM-proficient-DD344C?logo=amazoniam)
-![badmath](https://img.shields.io/badge/AWS_Lambda-proficient-FF9900?logo=awslambda)
-![badmath](https://img.shields.io/badge/Amazon_Route_53-proficient-8C4FFF?logo=amazonroute53)
-![badmath](https://img.shields.io/badge/Python-proficient-FECC00?logo=python)
-![badmath](https://img.shields.io/badge/Selenium-proficient-43B02A?logo=Selenium)
+                          z ᶻ
+　　　　　🌸＞　　フ       Z
+　　　　　| 　_　 _ l
+　 　　　／` ミ＿xノ
+　　 　 /　　　 　 |            _     ____  _      __                                
+　　　 /　 ヽ　　 ﾉ             | |_| | |_  \ \_/ |_/ 
+　 　 │　　|　|　|             |_| | |_|__  |_|  (_)
+　／￣|　　 |　|　|
+　| (￣ヽ＿_ヽ_)__)
+　＼二つ
 
-I'm most comfortable with back-end development as it concerns web applications and some local applications. I spent a year with a company located in Camarillo, CA learning and developing software solutions using the AWS platform. My specialties mostly pertain to web-crawling (Selenium), data-collection, CI/CD through AWS Amplify, and REST-ful API Development through AWS API Gateway v2. I am especially excited to continue developing my skills with HTML, CSS, and JavaScript and be able to confidently be a full-stack developer.
+  My name is Ryan, I'm 24, currently living in California. I've always loved tinkering with computers and was pretty glued to my parents' old desktop rig back in 2007 when the internet was pretty new to me. I have a diverse background that covers everything from art to agriculture. 
+
+  I specialize in Backend Development, and have over a year of professional experience working with the AWS platform to develop scaleable and compact web applications.
